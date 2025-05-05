@@ -1,3 +1,4 @@
+#Ce code permet de jouer au démineur sur Python
 #!/usr/bin/python3
 import random
 import os

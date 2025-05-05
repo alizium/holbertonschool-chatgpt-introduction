@@ -1,3 +1,4 @@
+#Ce code permet de calculer le factorial
 #!/usr/bin/python3
 import sys
 
